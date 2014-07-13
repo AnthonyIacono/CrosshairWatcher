@@ -53,7 +53,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>csgoicon.ico</ApplicationIcon>
+    <ApplicationIcon>csgoicon_alt.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>97123B7852976A37CE322D3E56E84EA08444E0BB</ManifestCertificateThumbprint>
@@ -132,6 +132,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="csgoicon.ico" />
+    <Content Include="csgoicon_alt.ico" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
