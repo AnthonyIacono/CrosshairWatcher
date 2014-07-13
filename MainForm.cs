@@ -184,7 +184,7 @@ namespace CrosshairWatcher
             {
                 if(_chatClientFailedToConnect || _chatClientFailedToLogin)
                 {
-                    TwitchBotStatusLabel.Text = "Twitch Bot Status: Failed to check, please fix your settings!";
+                    TwitchBotStatusLabel.Text = "Twitch Bot Status: Failed to connect or login to bot, please fix your settings!";
                 }
                 else
                 {

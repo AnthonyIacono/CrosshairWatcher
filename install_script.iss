@@ -23,7 +23,7 @@ DefaultDirName={pf}\{#MyAppName}
 DefaultGroupName={#MyAppName}
 AllowNoIcons=yes
 OutputBaseFilename=setup
-SetupIconFile=C:\Users\Anthony\Documents\csgoicon.ico
+SetupIconFile=C:\Users\Anthony\Documents\csgoicon_alt.ico
 Compression=lzma
 SolidCompression=yes
 
